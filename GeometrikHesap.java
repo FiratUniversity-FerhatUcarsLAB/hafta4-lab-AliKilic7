@@ -1,4 +1,5 @@
 ***KOD***
+	
 package Hafta4;
 
 import java.util.Scanner;
@@ -41,6 +42,7 @@ public class GeometrikHesap {
 
 
 ***ÇIKTI***
+	
 =====Geometrik Hesaplayıcı=====
 Hesaplamaları yapılacak dairenin yarıçapını belirleyiniz
 5
