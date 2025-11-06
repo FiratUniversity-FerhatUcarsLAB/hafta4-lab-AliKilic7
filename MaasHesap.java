@@ -1,3 +1,10 @@
+/*
+ * Ad Soyad: Selahattin Ali KILIÇ
+ * Ogrenci No: 250541036
+ * Tarih: 06.11.2025
+ * Aciklama: Geometrik Hesaplayıcı
+ */
+
 ***KOD***
   
 package Hafta4;
